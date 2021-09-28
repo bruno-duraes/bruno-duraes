@@ -2,8 +2,8 @@
   `Bem-Vindo ao meu ${GitHub}`<h2>
   <div align="center">
     <a href="https://github.com/bruno-duraes">
-    <img height="180em" align="left "src="https://github-readme-stats.vercel.app/api?username=bruno-duraes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-duraes&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="160em" align="left "src="https://github-readme-stats.vercel.app/api?username=bruno-duraes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-duraes&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>  
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
